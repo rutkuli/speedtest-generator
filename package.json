@@ -1,0 +1,18 @@
+{
+  "name": "speedtest generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rutkuli",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "md5": "^2.3.0",
+    "random-useragent": "^0.5.0",
+    "yargs": "^17.5.1"
+  }
+}
