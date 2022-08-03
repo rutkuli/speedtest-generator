@@ -31,7 +31,7 @@ node index --help
 node index --download 5000 --upload 5000 --ping 10 --server (your server id without brackets) --accuracy 8
 ```
 the command values are completely <b>optional</b> if you don't want to put any amounts yourself.<br>
-If you want to change the server id to a server near you, visit https://c.speedtest.net/speedtest-servers-static.php
+If you want to change the server id to a server near you, visit http://www.speedtest.net/api/embed/trial/config.php
 
 The details gets transferred to Speedtest.net database with the inputed Value
 
